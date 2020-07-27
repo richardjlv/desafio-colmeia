@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="#rodando-o-projeto-localmente">Rodando o projeto localmente</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias-utilizadas">Tecnologias</a>
 </p>
 
 Projeto desenvolvido para o desafio da Colmeia no qual utilizamos um banco de dados no Back4App para responder as seguintes perguntas:

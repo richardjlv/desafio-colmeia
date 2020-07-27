@@ -50,7 +50,7 @@ Dentro da pasta, execute:
 npm install
 ```
 
-### 4 - Para gerar o csv com as respostas
+### 4 - Para gerar o documento .csv com as respostas
 
 Dentro da pasta, execute:
 ```
